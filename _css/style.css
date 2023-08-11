@@ -1,0 +1,84 @@
+nav#menu{
+    display: block;
+}
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    left: 800px;
+    top: 20px;
+    
+    }
+nav#menu li{
+        display: inline-block;
+      
+        padding: 15px;
+        
+    }
+    body{
+        background-color:rgb(225, 225, 230);
+        
+        
+    }
+    header{
+        padding-top:90px ;
+        padding-bottom: 10px;
+        position: relative;
+        background-color: rgb(7, 7, 7);
+    }
+    img{
+        
+         position:relative;
+        width:25%;
+        top:-10px;
+        padding-left:0px;
+    
+        
+        }
+        nav#menu img{
+            width: 6%;
+            top: -90px;
+            left: 10px;
+            
+        }
+        h1{
+            position: relative;
+            padding-left: 50px;
+            font-family: verdana;
+            font-weight: bold;
+        }
+        h6{
+            background-color: black;
+            padding-bottom: -1px;
+            padding-top: -1px;
+            
+        }
+        nav#menu a :link{
+            transition: 10.ms;
+            color: rgb(255, 255, 255);
+
+            
+        }
+       
+        
+        nav#menu a:link{
+            text-decoration: none;
+            color:blue;
+            font-family: verdana;
+            font-weight: bold;
+            transition: all 0.8s;
+
+        }
+        nav#menu a :visited{
+            color: rgb(255, 0, 0);
+        }
+        nav#menu a:hover{
+            color:rgb(255, 255, 255);
+        }
+        h2 {
+           padding-left: 50px;
+           
+
+        }
+       
+    
