@@ -5,11 +5,17 @@
 <h4>O website contém as seguintes abas:<h4>
 <ol>
 <li>Home</li>!
-[Aba Inícial](<Imagenss/Captura de tela 2023-08-22 092306.png>)
-<li>Fale-Conosco</li>
-<li>Produtos</li>
-<li>Sobre</li>
+![](Imagenss/Captura%20de%20tela%202023-08-22%20092306.png)
+<p> A Página está sem alteração.</p>
+<li>Fale-Conosco</li>![](../../../../../../Pictures/Screenshots/Captura%20de%20tela%202023-08-25%20074644.png)
+<p> A aba está sem alteração.</p>
+<li>Produtos</li>![](../../../../../../Pictures/Screenshots/Captura%20de%20tela%202023-08-25%20075939.png)
+![](../../../../../../Pictures/Screenshots/Captura%20de%20tela%202023-08-25%20080254.png)
+<p> A página insere os produtos com preço, parcela, forma de pagamento e descrição.
+<li>Sobre</li>![](../../../../../../Pictures/Screenshots/Captura%20de%20tela%202023-08-25%20081010.png)
+<p>A página informa quem somos nós.</p>
 <li>Imagens</li>
+<p>Arquivo de armazenamento de imagens.</p>
 </ol> 
 <h4>Tecnologias utlizadas:</h4>
 <ul>
