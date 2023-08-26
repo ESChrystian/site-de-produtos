@@ -1,6 +1,6 @@
 <h1 align="center">Site de Produtos</h1>
 <p>v0.01 License:Marista escola sociais Irmão Ácacio</p>
-<h3>O Site foi criado com o objetivo do consumidor(a) fazer suas compras e esperar a entrega em casa. Fácil, rápido e prático.<h3>
+<h3>O Site foi criado com o objetivo do consumidor(a) fazer suas compras e obter seu produto em casa, com uma entrega rápida.</h3>
 <h4 align="center"> :construction: Projeto em construção :construction:</h4>
 <h4>O website contém as seguintes abas:<h4>
 <ol>
