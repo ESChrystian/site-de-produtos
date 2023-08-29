@@ -14,7 +14,8 @@
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20075939.png)>
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20080254.png)>
 <p> A página insere os produtos com preço, parcela, forma de pagamento e descrição.
-<li>Sobre</li><img src=![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/chrystian.almeida/OneDrive%20-%20Grupo%20Marista/1%C2%B0ANO/FDW/1%C2%B0%20ANO/Codigos/site-de-produtos/Imagenss/Captura%20de%20tela%202023-08-25%20081010.png?version%3D1692962640757)>
+<li>Sobre</li>
+  ![Captura de tela 2023-08-25 081010](https://github.com/ESChrystian/site-de-produtos/assets/140809945/65f20f50-ae0f-41a5-b34c-3dd68f8de10d)
 <p>A página informa quem somos nós.</p>
 <li>Imagens</li>
 <p>Arquivo de armazenamento de imagens.</p>
