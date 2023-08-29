@@ -11,8 +11,8 @@ https://github.com/ESChrystian/site-de-produtos/issues/1#issue-1871449938
 https://github.com/ESChrystian/site-de-produtos/issues/2#issue-1871453963
 <p>- A aba está sem alteração.</p>
 <li>Produtos</li>
-<img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20075939.png)>
-<img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20080254.png)>
+https://github.com/ESChrystian/site-de-produtos/issues/3#issue-1871457609
+
 <p>- A página insere os produtos com preço, parcela, forma de pagamento e descrição.
 <li>Sobre</li>
   !https://github.com/ESChrystian/site-de-produtos/assets/140809945/65f20f50-ae0f-41a5-b34c-3dd68f8de10d
