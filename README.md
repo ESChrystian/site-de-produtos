@@ -15,8 +15,7 @@ https://github.com/ESChrystian/site-de-produtos/issues/3#issue-1871457609
 https://github.com/ESChrystian/site-de-produtos/issues/4#issue-1871458387
 <p>- A página insere os produtos com preço, parcela, forma de pagamento e descrição.
 <li>Sobre</li>
- 
-
+https://github.com/ESChrystian/site-de-produtos/issues/5#issue-1871461538
 <p>- A página informa quem somos nós.</p>
 <li>Imagens</li>
 <p>- Arquivo de armazenamento de imagens.</p>
