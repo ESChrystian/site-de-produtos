@@ -9,7 +9,7 @@
 <p> A Página está sem alteração.</p>
 <li>Fale-Conosco</li>
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20074644.png)>
-<p> A aba está sem alteração.</p>
+<p>-A aba está sem alteração.</p>
 <li>Produtos</li>
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20075939.png)>
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20080254.png)>
@@ -17,11 +17,11 @@
 <li>Sobre</li>
   ![](https://github.com/ESChrystian/site-de-produtos/assets/140809945/65f20f50-ae0f-41a5-b34c-3dd68f8de10d)
 
-<p>A página informa quem somos nós.</p>
+<p>-A página informa quem somos nós.</p>
 <li>Imagens</li>
-<p>Arquivo de armazenamento de imagens.</p>
+<p>-Arquivo de armazenamento de imagens.</p>
 </ol> 
-<h4>Tecnologias utlizadas:</h4>
+<h4><b>Tecnologias utlizadas:</b></h4>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
