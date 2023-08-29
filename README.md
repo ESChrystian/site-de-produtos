@@ -15,7 +15,7 @@
 <img src=![](Imagenss/Captura%20de%20tela%202023-08-25%20080254.png)>
 <p> A página insere os produtos com preço, parcela, forma de pagamento e descrição.
 <li>Sobre</li>
-  ![](https://github.com/ESChrystian/site-de-produtos/assets/140809945/65f20f50-ae0f-41a5-b34c-3dd68f8de10d)
+  !(https://github.com/ESChrystian/site-de-produtos/assets/140809945/65f20f50-ae0f-41a5-b34c-3dd68f8de10d)
 
 <p>-A página informa quem somos nós.</p>
 <li>Imagens</li>
