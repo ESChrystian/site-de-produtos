@@ -4,37 +4,34 @@
 <h4 align="center"> :construction: Projeto em construção :construction:</h4>
 <h4>O website contém as seguintes abas:<h4>
 <ol>
-<<<<<<< HEAD
-<li>Home</li>
+<h1>Home</h1>
+<p>Home page é a página incial de um site, ou seja, é página de entrada quando o usuário digita o endereço eletrônico de um site. Em alguns casos ela ainda é a responsável por criar aquela “primeira impressão” para o usuário.</p>
+<ul>
+<li>Sem alterações</li>
+</ul>
 <img src=Imagenss/Captura%20de%20tela%202023-08-22%20092306.png>
-<p> A Página está sem alteração.</p>
-<li>Fale-Conosco</li>
+<h1>Fale-Conosco</h1>
+<p>O “fale conosco” ou o formulário de contato são itens para que o usuário entre em contato.</p>
+<ul>
+<li>Sem alteração.</li>
+</ul>
 <img src=Imagenss/Captura%20de%20tela%202023-08-25%20074644.png>
-<p> A aba está sem alteração.</p>
-<li>Produtos</li>
+<h1>Produtos</h1>
+<p>Uma página de produto é uma página no site de uma empresa que mostra o estoque de produtos que um cliente pode comprar.</p>
+<ul>
+<li> A página insere os produtos com preço, parcela, forma de pagamento e descrição.</li>
+</ul>
 <img src=Imagenss/Captura%20de%20tela%202023-08-25%20075939.png>
 <img src=Imagenss/Captura%20de%20tela%202023-08-25%20080254.png>
-<p> A página insere os produtos com preço, parcela, forma de pagamento e descrição.
-<li>Sobre</li><img src=Imagenss/Captura%20de%20tela%202023-08-25%20081010.png>
-<p>A página informa quem somos nós.</p>
-=======
-<li>Home</li>!
-https://github.com/ESChrystian/site-de-produtos/issues/1#issue-1871449938
-<p> A Página está sem alteração.</p>
-<li>Fale-Conosco</li>
-https://github.com/ESChrystian/site-de-produtos/issues/2#issue-1871453963
-<p>- A aba está sem alteração.</p>
-<li>Produtos</li>
-https://github.com/ESChrystian/site-de-produtos/issues/3#issue-1871457609
-https://github.com/ESChrystian/site-de-produtos/issues/4#issue-1871458387
-<p>- A página insere os produtos com preço, parcela, forma de pagamento e descrição.
-<li>Sobre</li>
-https://github.com/ESChrystian/site-de-produtos/issues/5#issue-1871461538
-<p>- A página informa quem somos nós.</p>
->>>>>>> 615cee4bf1dcfc33bb8c4c17d0bcd552d2b72650
-<li>Imagens</li>
-<p>- Arquivo de armazenamento de imagens.</p>
-</ol> 
+
+<h1>Sobre</h1>
+<p>A página informa quem somos nós e nossa trajetória.</p>
+<img src=Imagenss/Captura%20de%20tela%202023-08-25%20081010.png>
+<ul>
+<li>Em construção.</li>
+</ul>
+<h1>Imagens</h1>
+<p>Arquivo de armazenamento de imagens.</p> 
 <h4><b>Tecnologias utlizadas:</b></h4>
 <ul>
 <li>HTML5</li>
