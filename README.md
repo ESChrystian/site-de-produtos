@@ -39,7 +39,8 @@
 <li>CSS3</li>
 </ul>
 <h3>Desenvolvedores:</h3>
-<img loading="lazy" src="" width=115><br><sub>Chrystian Almeida Silva</sub> https://github.com/ESChrystian
+<img loading="lazy" src="" width=115><br>
+[Chrystian Almeida Silva](https://github.com/ESChrystian)
 
 
 
