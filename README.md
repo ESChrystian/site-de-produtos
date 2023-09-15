@@ -37,10 +37,13 @@
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
+<li>Github</li>
+<li>VSCode</li>
 </ul>
 <h3>Desenvolvedores:</h3>
 <img loading="lazy" src="Imagenss/Captura%20de%20tela%202023-04-06%20091435.png" width=115><br>
 <a href="https://github.com/ESChrystian">Chrystian Almeida Silva</a>
+<h3>Fonte: Aluara</h3>
 
 
 
