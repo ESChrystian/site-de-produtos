@@ -41,7 +41,8 @@
 <li>VSCode</li>
 </ul>
 <h3>Desenvolvedores:</h3>
-<img loading="lazy" src="Imagenss/Captura%20de%20tela%202023-04-06%20091435.png" width=115><br>
+
+<img loading="lazy" src="https://github.com/ESChrystian/site-de-produtos/assets/140809945/6a4fa894-a625-424a-80b0-b01d0a8c0bb5" width=130><br>
 <a href="https://github.com/ESChrystian">Chrystian Almeida Silva</a>
 <h3>Fonte: Aluara</h3>
 
